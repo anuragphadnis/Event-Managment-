@@ -1,0 +1,31 @@
+.textcenter
+{
+	text-align: center;
+}
+.imgmain
+{
+	width: 100%;
+}
+.img1bg
+{
+    padding-top: -10px;
+    background-image: url("../images/dots.jpg");
+
+    /* Set a specific height */
+    height: 500px;
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar-my
+{
+        background-color: #fff;
+        color: #000;
+}
+.paddtop
+{
+    padding-top: 50px;
+}
